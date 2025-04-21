@@ -3,7 +3,7 @@ My personal profile
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Youssef Jameel Zouagri's profile!
+  Welcome to Youssef Jameel profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -15,7 +15,6 @@ My personal profile
 </p> 
 
 - 🧠 I'm a software engineer who loves coding and solving problems.
-- 💼 I'm a Software Engineer specializing in Python development and front-end development
 - 🎯 Focused on becoming a **junior web developer** ready to build sleek, responsive interfaces  
 - 👨‍💻 Learning JavaScript, React, and modern development tools step by step  
 - ☕ Fun Fact: I thrive on curiosity (and late-night code + coffee combos)  
@@ -27,7 +26,7 @@ My personal profile
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/Youssef_Jameel" target="_blank">
-  <img src="https://img.shields.io/badge/-Salah%20Eddine%20Zouagri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Yousef%20Jameel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:yousefjamelabdullatif@gamil.com" target="_blank">
   <img src="https://img.shields.io/badge/-yousefjamelabdullatif@gamil.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
