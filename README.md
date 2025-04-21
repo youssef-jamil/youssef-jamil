@@ -27,33 +27,26 @@ Hello, I'm **Yousef Jamil**, a passionate and dedicated **Frontend Developer** a
 
 ---
 
-### Technical Skills
-
-- **Languages**: 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)  
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=E34F26)  
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)  
-  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=007396)  
-  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)
-
-- **Frameworks/Libraries**:  
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
-
-- **Tools & Technologies**:  
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=FFFFFF)  
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)  
-  ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=CB3837)
-
-- **Databases**:  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
-
-- **Others**:  
-  ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=appveyor&logoColor=0078D4)  
-  ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-05122A?style=flat&logo=html5&logoColor=E34F26)
-
----
+  ### 🛠 &nbsp;Tech Stack
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+  
+  - **Others**:  
+    ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=appveyor&logoColor=0078D4)  
+    ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-05122A?style=flat&logo=html5&logoColor=E34F26)
+  
+  ---
 
 ### Education
 
