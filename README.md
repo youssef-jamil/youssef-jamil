@@ -3,7 +3,7 @@ My personal profile
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Salah Eddine Zouagri's profile!
+  Welcome to Youssef Jameel Zouagri's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -14,21 +14,23 @@ My personal profile
   </a>
 </p> 
 
-- 🧠 I'm currently diving deep into front-end development through an intensive bootcamp  
+- 🧠 I'm a software engineer who loves coding and solving problems.
+- 💼 I'm a Software Engineer specializing in Python development and front-end development
 - 🎯 Focused on becoming a **junior web developer** ready to build sleek, responsive interfaces  
 - 👨‍💻 Learning JavaScript, React, and modern development tools step by step  
 - ☕ Fun Fact: I thrive on curiosity (and late-night code + coffee combos)  
 - 🌐 Future portfolio coming soon — stay tuned!
+- 🚀 Always learning something new and exploring cool tech.
 
 ---
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/salahzouagri" target="_blank">
+<a href="https://linkedin.com/in/Youssef_Jameel" target="_blank">
   <img src="https://img.shields.io/badge/-Salah%20Eddine%20Zouagri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="mailto:salah.zouagri98@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-salah.zouagri98@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
+<a href="mailto:yousefjamelabdullatif@gamil.com" target="_blank">
+  <img src="https://img.shields.io/badge/-yousefjamelabdullatif@gamil.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
 ---
