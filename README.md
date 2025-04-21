@@ -41,8 +41,8 @@ Hello, I'm **Yousef Jamil**, a passionate and dedicated **Frontend Developer** a
   ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
   ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-  ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=appveyor&logoColor=0078D4);
-  ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-05122A?style=flat&logo=html5&logoColor=E34F26);
+  ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=appveyor&logoColor=0078D4)
+  ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-05122A?style=flat&logo=html5&logoColor=E34F26)
   ---
 
 ### Education
