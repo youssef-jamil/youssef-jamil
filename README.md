@@ -16,13 +16,14 @@
 
 Hello, I'm **Yousef Jamil**, a passionate and dedicated **Frontend Developer** and **CS student**. I have a strong background in web development and I specialize in:
 
-- **HTML**, **CSS**, and **JavaScript** for building responsive, interactive websites.
-- **React** for building modern, dynamic user interfaces.
-- A solid understanding of **Data Structures & Algorithms**.
-- Currently learning **C++** and solving problems on platforms like **LeetCode**.
-- Enthusiastic about expanding my knowledge with **CS50** from Harvard University.
+  - 🌐 **HTML**, **CSS**, and **JavaScript** for building responsive, interactive websites.  
+  - ⚛️ **React** for building modern, dynamic user interfaces.  
+  - 💻 A solid understanding of **Data Structures & Algorithms**.  
+  - 🔍 Currently learning **C++** and solving problems on platforms like **LeetCode**.  
+  - 🎓 Enthusiastic about expanding my knowledge with **CS50** from Harvard University.  
+  
+  📚 Always striving to enhance my skills and improve my problem-solving approach.
 
-📚 Always striving to enhance my skills and improve my problem-solving approach.
 
 ---
 
