@@ -26,7 +26,6 @@ Hello, I'm **Yousef Jamil**, a passionate and dedicated **Frontend Developer** a
 
 ---
 
-
 ### Technical Skills
 
 - **Languages**: 
@@ -64,9 +63,12 @@ Hello, I'm **Yousef Jamil**, a passionate and dedicated **Frontend Developer** a
 
 ### Connect with Me
 
-- 📧 **Email**: [yousefjamelabdulatif@gmail.com](mailto:yousefjamelabdulatif@gmail.com)
-- 💼 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yousefjamil) *(if applicable)*
-- 🌍 **Portfolio**: [Personal Portfolio](https://yousefportfolio.com) *(if applicable)*
+<p align="center">
+  <a href="mailto:yousefjamelabdulatif@gmail.com"><img src="https://img.shields.io/badge/Email-%40yousefjamelabdulatif-FF6600?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/yousefjamil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/yousef-jamil" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://yousefportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%233B82F6?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
 
