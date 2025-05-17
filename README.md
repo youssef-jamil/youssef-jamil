@@ -1,74 +1,122 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h3 align="center">
-  Welcome to Yousef Jamil's GitHub Profile
-</h3>
+<h2 align="center">Welcome to Yousef Jamil's GitHub Profile 🚀</h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer%20%F0%9F%9A%80;JavaScript%20%26%20React%20Enthusiast;C++%20%26%20CS50%20Learner&font=Fira%20Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&size=22">
-  </a>
-</p>  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Student%20%F0%9F%92%BB;Flutter%20%26%20Full%20Stack%20Developer;Passionate%20Problem%20Solver&font=Fira%20Code&center=true&width=500&height=45&color=F7971E&vCenter=true">
+</p>
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
-Hello, I'm **Yousef Jamil**, a passionate and dedicated **Frontend Developer** and **CS student**. I have a strong background in web development and I specialize in:
+🎓 I'm a **Software Engineering student at Cairo University** with a strong passion for solving problems and building high-quality digital solutions.
 
-  - 🌐 **HTML**, **CSS**, and **JavaScript** for building responsive, interactive websites.  
-  - ⚛️ **React** for building modern, dynamic user interfaces.  
-  - 💻 A solid understanding of **Data Structures & Algorithms**.  
-  - 🔍 Currently learning **C++** and solving problems on platforms like **LeetCode**.  
-  - 🎓 Enthusiastic about expanding my knowledge with **CS50** from Harvard University.  
-  
-  📚 Always striving to enhance my skills and improve my problem-solving approach.
+🛠️ **Main Interests:**
+- 💙 Flutter Development
+- 🖥️ Back-End Development
+- 🌐 Full Stack Application Development
 
+🚀 I'm driven by the challenge of turning ideas into real-world, professional applications that offer both performance and great user experience.
+
+🔎 **Problem Solver:**  
+I have a strong ability to analyze and break down problems, helping me turn any idea into a tangible, functional product. Before writing code, I take time to understand the problem deeply and design a clean, scalable solution — focusing on quality, performance, and efficiency.
+
+🧩 **Software Design Patterns:**  
+I'm also learning and applying Software Design Patterns 🏗️ to build systems that are maintainable, reusable, and architecturally sound. I believe in the power of writing clean, well-structured code that follows best practices in software design.
+
+🤝 **Professional Approach:**  
+Beyond coding, I strive to approach every task with professionalism, clear thinking, and effective communication — ensuring that not only the product but also the process is handled with excellence.
+
+📈 **Continuous Growth:**  
+I’m currently working on projects related to my specialization while actively learning and improving in areas like back-end architecture, application development, and advanced problem solving.  
+💡 I dedicate time every day to growing technically and creatively as a developer.
+
+## 🛠 Tech Skills
+
+**Frontend:**  
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+
+**Backend & General:**  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+**Mobile Development:**  
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
 
 ---
 
-  ### 🛠 &nbsp;Tech Stack
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-  ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=appveyor&logoColor=0078D4)
-  ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-05122A?style=flat&logo=html5&logoColor=E34F26)
-  ---
+## 🚀 Passionate About
 
-### Education
-
-- 🎓 **CS50 - Introduction to Computer Science** (Harvard University)
-- Currently pursuing a **Bachelor’s Degree in Computer Science**
+- Problem Solving
+- Clean Code
+- Software Design Patterns
+- Back-End Logic
+- UI/UX
+- Software Architecture
 
 ---
 
-### Connect with Me
+## 📚 Currently Learning
+
+- Back-End Development
+- App Development
+- Flutter
+- Advanced Problem Solving
+- Design Patterns
+
+---
+
+## 💼 Opportunities
+
+I'm currently open to **Internships, Freelance Projects, and Full/Part-Time Opportunities** where I can grow, contribute, and collaborate with like-minded professionals.
+
+---
+
+> I’m endlessly passionate about what I do — and always strive to deliver work that’s professional, clean, and impactful.
+
+---
+
+## 🎓 Education
+
+- **CS50 – Introduction to Computer Science** (Harvard University)
+- **Bachelor’s Degree in Software Engineering** (Cairo University – ongoing)
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:yousefjamelabdulatif@gmail.com"><img src="https://img.shields.io/badge/Email-%40yousefjamelabdulatif-FF6600?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/youssef-jameel-abdullatif-ali target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/youssef-jameel-abdullatif-ali" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/youssef-jamil" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://yousefportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%233B82F6?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
+## 📊 GitHub Stats
 
-### GitHub Stats
-
-![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousef-jamil&show_icons=true&count_private=true&theme=radical)
+![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-jamil&show_icons=true&count_private=true&theme=radical)
 
 ---
 
-### Top Languages
+## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yousef-jamil&show_icons=true&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=youssef-jamil&show_icons=true&layout=compact&theme=radical)
+
+---
+
+<!-- Optional: Add your own projects section here -->
+<!--
+## 🚀 Featured Projects
+
+- [Project Name](Project Link) – Short description
+-->
