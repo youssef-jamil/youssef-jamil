@@ -110,7 +110,6 @@ I'm currently open to **Internships, Freelance Projects, and Full/Part-Time Oppo
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=youssef-jamil&show_icons=true&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-jamil&repo=Data-Structure-and-Algorithm-using-Java&layout=compact&theme=radical)
 
 ---
